@@ -17,7 +17,7 @@ Amo unire estetica e funzionalità per creare esperienze web moderne, veloci e s
 
 ## 🧰 Tecnologie principali
 
-![My Skills](https://skillicons.dev/icons?i=react,ts,js,scss,figma,vite,vercel,git)
+![My Skills](https://skillicons.dev/icons?i=react,ts,js,scss,figma,vite,vercel,git,make,n8n)
 
 - **Linguaggi**: TypeScript, JavaScript, SCSS  
 - **Framework**: React, Next.js, Vite  
